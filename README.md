@@ -90,100 +90,29 @@ Tente descrever sua dúvida com o máximo de detalhes possíveis, perguntas vaga
 
 Incentivamos a divulgação de "Coding Dojos", "Hackatons", palestras, eventos comunitários e outros eventos que ajudem a disseminação do conhecimento e a colaboração.
 
-## 5. Grupos signatários deste guia
+## 5. Ética Profissional
 
-### 5.1 Telegram
+Não é conveniente ao grupo que o mesmo se torne um fórum de avaliação de cursos. Não temos relação comercial com nenhuma plataforma de curso (e não há pretensão de termos) fazendo com que fique sem propósito discutir a qualidade de cursos de terceiros ou ainda sobre seus instrutores. Nosso foco é e sempre será no compartilhamento de conhecimentos e aprendizado coletivo.
 
-Grupos e canais do Telegram com URL Pública
+### 5.1. Indicação de materiais (cursos, livros, artigos e etc)
 
-1. [https://telegram.me/puppetbr](https://telegram.me/puppetbr)
-2. [https://telegram.me/gitlabbr](https://telegram.me/gitlabbr)
-3. [https://telegram.me/vagrantbr](https://telegram.me/vagrantbr)
-4. [https://telegram.me/dockerbr](https://telegram.me/dockerbr)
-5. [https://telegram.me/ansiblebr](https://telegram.me/ansiblebr)
-6. [https://telegram.me/jenkinsbr](https://telegram.me/jenkinsbr)
-7. [https://telegram.me/devopsbr](https://telegram.me/devopsbr)
-8. [https://telegram.me/go_br](https://telegram.me/go_br)
-9. [https://telegram.me/chefbr](https://telegram.me/chefbr)
-10. [https://telegram.me/PyCoding](https://telegram.me/PyCoding)
-11. [https://telegram.me/PfSenseBr](https://telegram.me/PfSenseBr)
-12. [https://telegram.me/ShellBr](https://telegram.me/ShellBr)
-13. [https://telegram.me/OpenStackBr](https://telegram.me/OpenStackBr)
-14. [https://telegram.me/powershellbr](https://telegram.me/powershellbr)
-15. [https://t.me/DataSciMT](https://t.me/DataSciMT)
-17. [https://telegram.me/javascriptbrasil](https://telegram.me/javascriptbrasil)
-18. [https://telegram.me/NodejsBR](https://telegram.me/NodejsBR)
-19. [https://telegram.me/fullstackdevelopers](https://telegram.me/fullstackdevelopers)
-20. [https://telegram.me/excelbr](https://telegram.me/excelbr)
-21. [https://telegram.me/cephbr](https://telegram.me/cephbr)
-22. [https://telegram.me/NxfilterBR](https://telegram.me/NxfilterBR)
-23. [https://telegram.me/mongodbbrasil](https://telegram.me/mongodbbrasil)
-24. [https://telegram.me/rocketchatbr](https://telegram.me/rocketchatbr)
-25. [https://telegram.me/quasarframeworkbrasil](https://telegram.me/quasarframeworkbrasil)
-26. [https://telegram.me/azurebrasil](https://telegram.me/azurebrasil)
-27. [https://telegram.me/caveiratech](https://telegram.me/caveiratech)
-28. [https://telegram.me/quasarframeworkbrasil](https://telegram.me/quasarframeworkbrasil)
-29. [https://telegram.me/DesenvolvimentoDeBots](https://telegram.me/DesenvolvimentoDeBots)
-30. [https://telegram.me/phpse](https://telegram.me/phpse)
-31. [https://telegram.me/kubernetesbr](https://telegram.me/kubernetesbr)
-32. [https://telegram.me/baculabr](https://telegram.me/baculabr)
-33. [https://telegram.me/salt_br](https://telegram.me/salt_br)
-34. [https://telegram.me/datasciencepython](https://telegram.me/datasciencepython)
-35. [https://telegram.me/fiberhomebrasil](https://telegram.me/fiberhomebrasil)
-36. [https://telegram.me/arduinobr](https://telegram.me/arduinobr)
-37. [https://telegram.me/phpmaranhao](https://telegram.me/phpmaranhao)
-38. [https://telegram.me/gdgsaoluis](https://telegram.me/gdgsaoluis)
-39. [https://telegram.me/saoluishackerspace](https://telegram.me/saoluishackerspace)  
-40. [https://telegram.me/arangodbbrasil](https://telegram.me/arangodbbrasil)
-41. [https://t.me/bemean](https://telegram.me/bemean)
-42. [https://t.me/linuxbrgroup](https://t.me/linuxbrgroup)
-43. [https://t.me/ComputerScientistBr](https://t.me/ComputerScientistBr)
-44. [https://t.me/ScrumBR](https://t.me/scrumbr)
-45. [https://t.me/programeiros]( https://t.me/programeiros) 
-46. [https://t.me/Engenharia_Software]( https://t.me/Engenharia_Software) 
-47. [https://t.me/ServerlessBrasil](https://t.me/ServerlessBrasil)
-48. [https://t.me/rbrasil](https://t.me/rbrasil)
-49. [https://t.me/laravelbr](https://t.me/laravelbr)
-50. [http://t.me/patiodigital](http://t.me/patiodigital)
-51. [https://t.me/mesosbr](https://t.me/mesosbr)
-52. [https://t.me/sqlmssql](https://t.me/sqlmssql)
-53. [https://t.me/macusersbr](https://t.me/macusersbr)
-54. [https://t.me/CentOSLATAM](https://t.me/CentOSLATAM)
-55. [https://t.me/G1_Globo_Oficial](https://t.me/G1_Globo_Oficial)
-56. [https://t.me/elixirbr](https://t.me/elixirbr)
-57. [https://t.me/rubybrasil](https://t.me/rubybrasil)
-58. [https://t.me/guru_go](https://t.me/guru_go)
-59. [https://t.me/nagiosbr](https://t.me/nagiosbr)
-60. [https://t.me/awsbrasil](https://t.me/awsbrasil)
-61. [https://t.me/WebDevRN](https://t.me/WebDevRN)
-62. [https://t.me/fug_br](https://t.me/fug_br)
-63. [https://t.me/cafezinho](https://t.me/cafezinho)
-64. [https://t.me/SpringBrasil](https://t.me/springbrasil)
-65. [https://t.me/DataSciMT](https://t.me/DataSciMT)
-66. [https://t.me/frontendtestesbrasil](https://t.me/frontendtestesbrasil)
+- Ao indicar um material atenha-se à sua ementa e conteúdo;
+- Não discuta sobre a características pessoais de responsáveis por materiais;
+- A curadoria oficial de materiais está disponível em [https://brasil-php.gitbook.io/manual/#curadoria](https://brasil-php.gitbook.io/manual/#curadoria), caso julgue adequado adicione materiais nesta curadoria.
 
-### 5.2 Slack
+### 5.2. Avaliar materiais
 
-01. infraascode.slack.com
-02. devopsdaysbrasilia.slack.com
+- Não pergunte se material "x" é bom ou ruim porque isso é pouco eficiente, já que é apenas opinião pessoal;
+- Não estimule esse tipo de discussão;
+- Procure fóruns e grupos de discussão off-topic para falar sobre isso;
+- Evite trocar mensagens sobre opiniões pessoais sobre materiais de terceiros;
+- Foque em explicitar sobre o conteúdo e iniciem conversas privadas ou dirijam-se para grupos adequados caso seja interessante para as partes;
 
-### 5.3 MatterMost
-
-01. mattermost.jac.bsb.br
-
-## 6. Como assinar?
-
-Converse com sua comunidade, pergunte se todos concordam e se sentem confortáveis em seguir e recomendar esse guia de conduta para novos membros. Caso eles topem seguir o guia, basta enviar um PR adicionando o seu grupo na seção acima.
-
-## 7. Como contribuir?
-
-Abra issues ou envie PRs para melhorar ou expandir este guia.
-
-## 8. Licença
+## 6. Licença
 
 [Creative Commons BY-SA-NC](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-## 9. URLs curtas e amigáveis
+## 7. URLs curtas e amigáveis
 
 Use as URls abaixo para pinar o código no topo do seu canal.
 
@@ -191,7 +120,3 @@ Use as URls abaixo para pinar o código no topo do seu canal.
 - [http://bit.ly/telegram-it-coc](http://bit.ly/telegram-it-coc)
 - [http://bit.ly/telegram-codigo-de-conduta]([http://bit.ly/telegram-codigo-de-conduta)
 - [http://bit.ly/codigo-de-conduta-do-grupo](http://bit.ly/codigo-de-conduta-do-grupo)
-
-## 10. Autor e mantenedor do projeto
-
-Guto Carvalho (gutocarvalho@gmail.com)
