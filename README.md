@@ -106,7 +106,8 @@ Não é conveniente ao grupo que o mesmo se torne um fórum de avaliação de cu
 - Não estimule esse tipo de discussão;
 - Procure fóruns e grupos de discussão off-topic para falar sobre isso;
 - Evite trocar mensagens sobre opiniões pessoais sobre materiais de terceiros;
-- Foque em explicitar sobre o conteúdo e iniciem conversas privadas ou dirijam-se para grupos adequados caso seja interessante para as partes;
+- Foque em explicitar sobre o conteúdo do material que está sendo indicado;
+- Iniciem conversas privadas ou dirijam-se para grupos adequados caso seja interessante para as partes tratarem de opiniões pessoais.
 
 ## 6. Licença
 
